@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .onHover {
+        @apply hover:bg-[#da3743] hover:flex hover:items-center hover:justify-center hover:cursor-pointer hover:text-white hover:px-2 hover:py-1 hover:rounded-lg hover:transition hover:duration-200 hover:ease-out;
+    }
+
+    .btn {
+        @apply font-bold rounded-full hover:bg-inherit hover:text-[#da3743] hover:border hover:border-[#da3743] transition duration-200 ease-out;
+    }
+}
