@@ -1,1 +1,1 @@
-Live Demo: https://mealz.vercel.app/
+Live Demo: https://stanleymealmenu.netlify.app/
